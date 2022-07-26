@@ -2,7 +2,7 @@
 
 Beginner level task for practicing implicit and explicit numeric conversions.
 
-Estimated time to complete the task - 1h.
+Estimated time to complete the task - 0.5h.
 
 The task requires .NET 6 SDK installed.
 
